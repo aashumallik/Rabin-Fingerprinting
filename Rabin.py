@@ -1,3 +1,4 @@
+# author   =   Aashutosh Mallik (Aashu)
 prime = 101
 def pattern_matching(text, pattern): #pattern matching
     m = len(pattern)
